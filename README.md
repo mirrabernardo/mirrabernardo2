@@ -1,8 +1,5 @@
 ![Image](https://github.com/user-attachments/assets/70c9dc06-225b-493f-acdc-50bbcc9fbebc)
 
-<h1 align="center">Olá, eu sou a Mirra!</h1>
-<h3 align="center">Pesquisando, programando e educando com inteligência e sensibilidade.</h3>
-
 - 🎓 Pós-graduanda em **BI** e **Matemática Aplicada**, mestranda em **IA**, com foco em soluções inteligentes e aplicadas  
 - 💼 Experiência em **Ciência de Dados**, com projetos voltados à mídia digital, educação e acessibilidade  
 - 📚 Formação complementar em **Engenharia de Software** e licenciatura em **Matemática**  
